@@ -1,0 +1,6 @@
+id: rosedu-member
+title: Membru ROSEdu
+description: |
+    {{ person_name }} {% if end_date %}a fost{% else %}este{% endif %}
+    membru ROSEdu din {{ start_date }}
+    {%- if end_date %} până în {{ end_date }}{% endif %}.

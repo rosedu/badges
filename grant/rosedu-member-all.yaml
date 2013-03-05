@@ -1,0 +1,11 @@
+# membrii asociației ROSEdu
+
+badge: rosedu-member
+
+grants:
+  - person_name: Bar
+    start_date: martie 2012
+
+  - person_name: Baz
+    start_date: septembrie 2011
+    end_date: ianuarie 2013

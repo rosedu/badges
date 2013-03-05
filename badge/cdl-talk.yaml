@@ -1,0 +1,5 @@
+id: cdl-talk
+title: Prezentare CDL
+description: |
+    {{ person_name }} a ținut prezentarea {{ talk_name }} la Cursul de
+    Dezvoltare Liberă {{ edition }}.
