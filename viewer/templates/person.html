@@ -1,9 +1,35 @@
 {% extends 'layout.html' %}
 
 
+{% block head %}
+  <style>
+    .badge {
+      width: 500px;
+      height: 200px;
+      border: 3px solid #acf;
+      margin: 20px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .badge img {
+      float: right;
+    }
+
+    .badge p {
+      font-size: 20px;
+      padding: 20px;
+    }
+  </style>
+{% endblock %}
+
+
 {% block content %}
   <h1>{{ person_name }}</h1>
   {% for badge_text in badges %}
-    {{ badge_text }}
+    <div class="badge">
+      <img src="http://grep.ro/quickpub/awesome-badge.jpg">
+      <p>{{ badge_text }}</p>
+    </div>
   {% endfor %}
 {% endblock %}
