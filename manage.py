@@ -6,8 +6,10 @@ from flask.ext.script import Manager
 
 
 def create_app():
+    import viewer
     app = flask.Flask(__name__)
     app.debug = (os.environ.get('DEBUG') == 'on')
+    app.register_blueprint(viewer.viewer)
     return app
 
 

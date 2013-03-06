@@ -1,0 +1,12 @@
+{% extends 'layout.html' %}
+
+
+{% block content %}
+  <ul>
+  {% for name in names %}
+    <li>
+      {{ name }}
+    </li>
+  {% endfor %}
+  </ul>
+{% endblock %}
