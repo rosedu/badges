@@ -1,0 +1,9 @@
+{% extends 'layout.html' %}
+
+
+{% block content %}
+  <h1>{{ person_name }}</h1>
+  {% for badge_text in badges %}
+    {{ badge_text }}
+  {% endfor %}
+{% endblock %}
