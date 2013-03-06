@@ -1,0 +1,84 @@
+# TechTalks (toate)
+
+badge: techtalks
+
+grants:
+  - person_name: Răzvan Deaconescu
+    date: 10 octombrie 2009
+    talk_name: Preprocesorul C
+
+  - person_name: Lucian Cojocar
+    date: 20 octombrie 2009
+    talk_name: SSH
+
+  - person_name: Mircea Bardac
+    date: 30 octombrie 2009
+    talk_name: Git
+
+  - person_name: Alex Morega
+    date: 10 noiembrie 2009
+    talk_name: Python WSGI
+
+  - person_name: Bogdan Doinea
+    date: 7 decembrie 2009
+    talk_name: Network Security
+
+  - person_name: Vlad Dogaru
+    date: 11 decembrie 2009
+    talk_name: Profiling & Systemtap
+
+  - person_name: Lucian Grijincu
+    date: 11 decembrie 2009
+    talk_name: Profiling & Systemtap
+
+  - person_name: Alex Eftimie
+    date: 16 decembrie 2009
+    talk_name: Debian Packaging
+
+  - person_name: Alexandru Juncu
+    date: 20 ianuarie 2010
+    talk_name: Voice over IP
+
+  - person_name: Vlad Ureche
+    date: 25 ianuarie 2010
+    talk_name: Hadoop
+
+  - person_name: Mihai Maruseac
+    date: 3 februarie 2010
+    talk_name: Debugging
+
+  - person_name: Răzvan Deaconescu
+    date: 9 octombrie 2010
+    talk_name: Advanced Bash
+
+  - person_name: Vlad Dogaru
+    date: 23 octombrie 2010
+    talk_name: LaTeX
+
+  - person_name: Elena Burceanu
+    date: 6 noiembrie 2010
+    talk_name: Android API
+
+  - person_name: Alexandru Juncu
+    date: 20 noiembrie 2010
+    talk_name: Linux Networking
+
+  - person_name: Răzvan Dobre
+    date: 4 decembrie 2010
+    talk_name: iptables
+
+  - person_name: Răzvan Deaconescu
+    date: 5 martie 2011
+    talk_name: Instrumente colaborative
+
+  - person_name: Petre Rațiu
+    date: 19 martie 2011
+    talk_name: Monitorizarea rețelelor
+
+  - person_name: Alex Morega
+    date: 2 aprilie 2011
+    talk_name: Unicode
+
+  - person_name: Valentin Goșu
+    date: 29 martie 2012
+    talk_name: Crash course and overview of Mozilla technologies

@@ -1,0 +1,4 @@
+id: techtalks
+title: Prezentare TechTalks
+description: |
+    {{ person_name }} a ținut prezentarea "{{ talk_name }}" la TechTalks.
