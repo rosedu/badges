@@ -1,17 +1,15 @@
 ROSEdu Badges Database
 ======================
 
-Baza de date cu decorațiuni acordate de către ROSEdu pentru merite
-deosebite.
+Database with badges offered by ROSEdu for remarkable endeavours.
 
 
-Structură
+Structure
 ---------
 ``badge/<name>.yaml``
-    Fișier YAML_ care conține descrierea unui badge.
+    YAML_ file containing badge description.
 
 ``grant/<name>-<when>.yaml``
-    Lista de persoane care au primit badge-ul `<name>` în perioada
-    `<when>`.
+    List of individuals which have received badge `<name>` at `<when>`.
 
 .. _YAML: http://yaml.org/
