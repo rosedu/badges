@@ -1,6 +1,6 @@
 PyYAML==5.4
 path.py==3.0.1
 Jinja2>=2.10.1
-Flask==1.0
+Flask==2.3.2
 Werkzeug==2.2.3
 Flask-Script==0.5.3
